@@ -298,6 +298,38 @@ color: var(--first-color);
     row-gap: 2.5rem;
 
 }
+/*=============== ABOUT PRODUCT ===============*/
+.about_product{
+    text-align: center;
+    background-color: var(--first-color);
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.about_product__data {
+    text-align: center;
+    margin-left: 10rem;
+    margin-right: 10rem;
+}
+.about_product__container {
+    align-content: center;
+    row-gap: 2.5rem;
+}
+/*=============== ABOUT TEAM ===============*/
+.about_team{
+    text-align: center;
+    background-color: var(--tird-color);
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.about_team__data {
+    text-align: center;
+    margin-left: 10rem;
+    margin-right: 10rem;
+}
+.about_team__container {
+    align-content: center;
+    row-gap: 2.5rem;
+}
 /*=============== FOOTER ===============*/
 footer{
     padding-top: 4rem;
